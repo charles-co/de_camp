@@ -34,3 +34,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+venv
+de-zoomcamp-375211-fe38ad3ca696.json
